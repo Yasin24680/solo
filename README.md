@@ -1,0 +1,2 @@
+# solo
+Trying new project
